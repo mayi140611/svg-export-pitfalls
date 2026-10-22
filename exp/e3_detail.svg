@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#ffffff"/>
+  <path d="M0,300 L400,0" stroke="#000000" stroke-width="1" fill="none"/>
+  <circle cx="120" cy="90" r="48" fill="#3366ff"/>
+  <text x="40" y="230" font-family="Noto Sans CJK SC" font-size="28" fill="#111111">矢量 2x 清晰度 SVG</text>
+  <g stroke="#ff8800" stroke-width="1">
+    <line x1="20" y1="270" x2="380" y2="270"/>
+    <line x1="20" y1="278" x2="380" y2="278"/>
+  </g>
+</svg>
